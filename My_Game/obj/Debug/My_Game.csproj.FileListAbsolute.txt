@@ -1,0 +1,13 @@
+C:\Users\UsEr\Desktop\My_Game\bin\Debug\My_Game.exe.config
+C:\Users\UsEr\Desktop\My_Game\bin\Debug\My_Game.exe
+C:\Users\UsEr\Desktop\My_Game\bin\Debug\My_Game.pdb
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.csproj.AssemblyReference.cache
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.Main_frm.resources
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.Properties.Resources.resources
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.csproj.GenerateResource.cache
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.csproj.CoreCompileInputs.cache
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.exe
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.pdb
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.login_frm.resources
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.play_frm.resources
+C:\Users\UsEr\Desktop\My_Game\obj\Debug\My_Game.UserControl1.resources
